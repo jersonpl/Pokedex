@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  padding: 5px;
+  background-color: rgba(0,0,0,0.1);
+}
+
+header {
+  width: "100%";
+  background-color: red;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 25px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header-title {
+  color: white;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+.pokeball {
+  width: 20px;
+  height: 20px;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+}
+
+.pokemon {
+
+}
+
+.pokemon-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.pokemon-details {
+
+}
+
+.footer {
+  height: 200px;
+  background-color: white;
+}
